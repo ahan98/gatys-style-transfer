@@ -13,6 +13,6 @@ Style Image |  Content Image
 :----------:|:---------------:
 ![](./style_images/vasjen_catro.png) | ![](./content_images/gits.jpg)
 
-L-BFGS Result |  Adam
+L-BFGS Result |  Adam Result
 :------------:|:---------------:
 ![](./results/out-lbfgs.png) | ![](./results/out-adam.png)
