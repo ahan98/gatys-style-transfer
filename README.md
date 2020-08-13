@@ -6,3 +6,13 @@ The file for pre-trained model parameters is borrowed from Gatys's own repo on t
 ```
 wget -c --no-check-certificate https://bethgelab.org/media/uploads/pytorch_models/vgg_conv.pth
 ```
+
+## Example
+
+Style Image |  Content Image
+:----------:|:---------------:
+![](./style_images/vasjen_catro.png) | ![](./content_images/gits.jpg)
+
+L-BFGS Result |  Adam
+:------------:|:---------------:
+![](./results/out-lbfgs.png) | ![](./results/out-adam.png)
